@@ -16,6 +16,8 @@ export default async function HomePage(){
           </li>
         ))}
       </ul>
+
+      
       <Link href="/new">
       <button>Add New Post</button></Link>
     </main>
